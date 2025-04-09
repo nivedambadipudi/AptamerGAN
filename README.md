@@ -1,0 +1,2 @@
+# AptamerGAN
+Aptamer binding project
